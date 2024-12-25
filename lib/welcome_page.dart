@@ -13,7 +13,7 @@ class _WelcomePageState extends State<WelcomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Cs app welcome page'),
+        title: const Text('Cs app welcome page2'),
         leading: IconButton(
           icon: const Icon(Icons.menu),
           onPressed: () {
